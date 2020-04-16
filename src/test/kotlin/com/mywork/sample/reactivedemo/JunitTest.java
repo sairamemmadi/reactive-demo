@@ -1,9 +1,10 @@
 package com.mywork.sample.reactivedemo;
 
 
+import com.mywork.sample.reactivedemo.test.Testing;
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.Assert.*;
+
 public class JunitTest {
 
     @Test(expected = IllegalArgumentException.class)

@@ -1,4 +1,4 @@
-package com.mywork.sample.reactivedemo.client
+package com.mywork.sample.reactivedemo.test
 
 import java.io.File
 import java.io.BufferedReader

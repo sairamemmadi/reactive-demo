@@ -1,4 +1,4 @@
-package com.mywork.sample.reactivedemo;
+package com.mywork.sample.reactivedemo.test;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
